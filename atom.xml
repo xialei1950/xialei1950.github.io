@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hello World</title>
+  
+  <subtitle>hello world!</subtitle>
+  <link href="/xialei1950.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xialei1950.github.io/"/>
+  <updated>2019-06-23T07:28:56.999Z</updated>
+  <id>https://xialei1950.github.io/</id>
+  
+  <author>
+    <name>SUMICE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World !</title>
+    <link href="https://xialei1950.github.io/2019/06/23/Hello-World-%EF%BC%81/"/>
+    <id>https://xialei1950.github.io/2019/06/23/Hello-World-！/</id>
+    <published>2019-06-23T07:14:53.969Z</published>
+    <updated>2019-06-23T07:28:56.999Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><hr><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>内容</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink&quot; title=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Iridescent</title>
+    <link href="https://xialei1950.github.io/2019/06/23/Iridescent/"/>
+    <id>https://xialei1950.github.io/2019/06/23/Iridescent/</id>
+    <published>2019-06-23T05:48:25.000Z</published>
+    <updated>2019-06-23T15:50:06.288Z</updated>
+    
+    <content type="html"><![CDATA[<p>����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;�����������������������������������������������������������������������������������������������������������������������������������������
+      
+    
+    </summary>
+    
+      <category term="Algorithm" scheme="https://xialei1950.github.io/categories/Algorithm/"/>
+    
+    
+      <category term="��ǩ1" scheme="https://xialei1950.github.io/tags/%EF%BF%BD%EF%BF%BDk1/"/>
+    
+      <category term="��ǩ2 (��ѡ)" scheme="https://xialei1950.github.io/tags/%EF%BF%BD%EF%BF%BDk2-%EF%BF%BD%EF%BF%BD%D1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018-02-05-测试文章</title>
+    <link href="https://xialei1950.github.io/2018/02/06/tranquil/"/>
+    <id>https://xialei1950.github.io/2018/02/06/tranquil/</id>
+    <published>2018-02-06T02:13:19.000Z</published>
+    <updated>2019-06-25T08:17:36.061Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是文章的概览，显示在主页缩略内容上面</p><a id="more"></a><p>这里是自动生成的文章目录</p><!-- toc --><blockquote><p>CSDN的发布流程烂到家了，只能自己动手搭建技术博客</p></blockquote><h1 id="这是大标题"><a href="#这是大标题" class="headerlink" title="这是大标题"></a>这是大标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h2 id="这里有个本地图片"><a href="#这里有个本地图片" class="headerlink" title="这里有个本地图片"></a>这里有个本地图片</h2><p><img src="C:%5CUsers%5Chp%5CDesktop%5C%E5%B0%8F%E5%BF%83%E8%B6%85%E4%BA%BA.jpg" alt="本地图片"></p><h2 id="这里有个网络图片"><a href="#这里有个网络图片" class="headerlink" title="这里有个网络图片"></a>这里有个网络图片</h2><p><img src="https://b-ssl.duitang.com/uploads/item/201511/14/20151114220653_Jajfz.jpeg" alt="网络图片"></p><h2 id="文章结束"><a href="#文章结束" class="headerlink" title="文章结束"></a>文章结束</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这里是文章的概览，显示在主页缩略内容上面&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="https://xialei1950.github.io/tags/Android/"/>
+    
+      <category term="前端" scheme="https://xialei1950.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
