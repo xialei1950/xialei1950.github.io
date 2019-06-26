@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xialei1950.github.io/"/>
-  <updated>2019-06-26T08:42:42.444Z</updated>
+  <updated>2019-06-26T09:31:02.025Z</updated>
   <id>https://xialei1950.github.io/</id>
   
   <author>
@@ -21,18 +21,17 @@
     <link href="https://xialei1950.github.io/2019/06/26/third-try/"/>
     <id>https://xialei1950.github.io/2019/06/26/third-try/</id>
     <published>2019-06-26T07:37:23.000Z</published>
-    <updated>2019-06-26T08:42:42.444Z</updated>
+    <updated>2019-06-26T09:31:02.025Z</updated>
     
-    <content type="html"><![CDATA[<p>这里有</p><img src="/2019/06/26/third-try/06/26/third-try/ss.jpg" title="Thmple image"><p><img src="/2019/06/26/third-try/ss.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p>这里有ujfgvkyhgbjl</p><p><img src="/2019/06/26/third-try/ss.jpg" alt></p><p>我现在写了一个段落，并且想在这个段落的某一个地方<img src="/2019/06/26/third-try/06/26/third-try/3123.jpg" title="这是一个新的博客的图片的说明">引入一张图片</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这里有&lt;/p&gt;
-&lt;img src=&quot;/2019/06/26/third-try/06/26/third-try/ss.jpg&quot; title=&quot;Thmple image&quot;&gt;
-
-&lt;p&gt;&lt;img src=&quot;/2019/06/26/third-try/ss.jpg&quot; alt&gt;&lt;/p
+        &lt;p&gt;这里有ujfgvkyhgbjl&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2019/06/26/third-try/ss.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;我现在写了一个段落，并且想在这个段落的某一个地方&lt;img src=&quot;/2019/06/26/third-try/06/26/
       
     
     </summary>
@@ -94,26 +93,24 @@
     <link href="https://xialei1950.github.io/2019/06/23/Iridescent/"/>
     <id>https://xialei1950.github.io/2019/06/23/Iridescent/</id>
     <published>2019-06-23T05:48:25.000Z</published>
-    <updated>2019-06-26T07:31:58.864Z</updated>
+    <updated>2019-06-26T09:30:35.564Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>��������������������������������������������������������������������������������������������������������������������������������������������</p><p>��������������������������������������������������������������������������������������������</p><hr><p>����ɶ</p><p>��</p>]]></content>
+    <content type="html"><![CDATA[<hr><p>��\</p><hr><p>����ɶ<a href="https://raw.githubusercontent.com/xialei1950/xialei1950.github.io/master/images/pic11.jpg" target="_blank" rel="noopener">https://raw.githubusercontent.com/xialei1950/xialei1950.github.io/master/images/pic11.jpg</a></p><p>��</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;hr&gt;
-&lt;p&gt;������������������������������������������������������������������������������������������������������������������������������������
+&lt;p&gt;��\&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;����ɶ&lt;a href=&quot;https://raw.githubusercontent.com/xialei1950/xialei1950.github.io/master/images/pic11.jpg&quot; target=&quot;_bl
       
     
     </summary>
     
       <category term="TEST" scheme="https://xialei1950.github.io/categories/TEST/"/>
     
-    
-      <category term="��ǩ1" scheme="https://xialei1950.github.io/tags/%EF%BF%BD%EF%BF%BDk1/"/>
-    
-      <category term="��ǩ2 (��ѡ)" scheme="https://xialei1950.github.io/tags/%EF%BF%BD%EF%BF%BDk2-%EF%BF%BD%EF%BF%BD%D1%A1/"/>
     
   </entry>
   
